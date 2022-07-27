@@ -10,9 +10,9 @@
 > 06_persist.ipynb - пример использвования функции сохранения данных persist() (стр. 66-67)  
 > 07_key_value_pairs_01.ipynb - создание коллекции пар ключ-значение (стр. 69-73)  
 > 07_key_value_pairs_02.ipynb - создание коллекции пар ключ-значение (стр. 74-77)  
->                       подсчет слов flatMap(), map(), reduceByKey()
-> 07_key_value_pairs_03.ipynb - настройка уровня параллелизма, группировка cogroup (стр. 78-80)
-> 07_key_value_pairs_04.ipynb - соединения
-> 07_key_value_pairs_PageRank.ipynb - пример реализации алгоритма PageRank 
-> 08_map_vs_flatMap_difference.ipynb - разница между реализациями функций RDD.map() и RDD.flatMap()
-> 09_mapValues_vs_flatMapValues_difference.ipynb - разница между реализациями функций RDD.mapValues() и RDD.flatMapValues()
+>                       подсчет слов flatMap(), map(), reduceByKey()  
+> 07_key_value_pairs_03.ipynb - настройка уровня параллелизма, группировка cogroup (стр. 78-80)  
+> 07_key_value_pairs_04.ipynb - соединения (стр. 81-82)  
+> 07_key_value_pairs_PageRank.ipynb - пример реализации алгоритма PageRank (стр. 91-93)   
+> 08_map_vs_flatMap_difference.ipynb - разница между реализациями функций RDD.map() и RDD.flatMap()  
+> 09_mapValues_vs_flatMapValues_difference.ipynb - разница между реализациями функций RDD.mapValues() и RDD.flatMapValues()  
