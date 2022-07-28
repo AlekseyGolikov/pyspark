@@ -22,3 +22,7 @@
 > 07_key_value_pairs_PageRank.ipynb - пример реализации алгоритма PageRank (стр. 91-93)
 > 09_mapValues_vs_flatMapValues_difference.ipynb - разница между реализациями функций RDD.mapValues() и RDD.flatMapValues()
 
+#### Глава 5  Загрузка и сохранение данных  
+
+> 10_textFile_saveAsTextFile.ipynb - Загрузка и сохранение данных из обычных текстовых файлов (стр. 99-102)  
+> 11_csv.ipjnb - загрузка и сохранение данных из csv файлов
