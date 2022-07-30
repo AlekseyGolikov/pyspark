@@ -1,0 +1,30 @@
+[{
+  "createdAt": "Nov 4, 2014 4:56:59 PM",
+  "id": 123,
+  "text": "Adventures With Coffee, Code, and Writing.",
+  "user": {
+    "id": 15594928,
+    "name": "Holden Karau",
+    "screenName": "holdenkarau"
+  }
+},
+{
+  "createdAt": "Nov 5, 2014 14:26:59 PM",
+  "id": 456,
+  "text": "text text text",
+  "user": {
+    "id": 12,
+    "name": "john deer",
+    "screenName": "jdeer"
+  }
+},
+{
+  "createdAt": "Nov 6, 2014 1:26:59 AM",
+  "id": 789,
+  "text": "aaa aaa aaa",
+  "user": {
+    "id": 13,
+    "name": "micledo",
+    "screenName": "mdo"
+  }
+}]
