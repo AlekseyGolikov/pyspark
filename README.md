@@ -44,9 +44,12 @@
 
 ## Spark SQL
 
+*Источник: https://github.com/databricks/learning-spark/tree/master/src/python *
+
 #### Использование Spark SQL в приложениях 
 
 > 01_start_with_HiveContext.ipynb - стартовый проект, использующий HiveContext  
 > 01_start_with_SQLContext.ipynb - стартовый проект, использующий SQLContext  
 > 02_load_from_JSON.ipynb - загрузка данных из JSON файла  
 > 03_load_from_PARQUET.ipynb - загрузка данных из PARQUET файла  
+> 04_user_defined_functions.ipynb - пример использования пользовательской функции  
