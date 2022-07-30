@@ -48,3 +48,4 @@
 
 > 01_start_with_HiveContext.ipynb - стартовый проект, использующий HiveContext  
 > 01_start_with_SQLContext.ipynb - стартовый проект, использующий SQLContext  
+> 02_load_from_JSON.ipynb - загрузка данных из JSON файла  
